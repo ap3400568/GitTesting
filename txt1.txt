@@ -1,2 +1,3 @@
 hello amit how are you
 How are you?
+when use the commond git remote -v then getting two url one for fetch and other is push ?
